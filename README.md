@@ -41,7 +41,7 @@
 - 💬 Ask me about: What i enjoy?
 - 📫 How to reach me: kevinwuinbox@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:
+- ⚡ Fun fact: My favorite type of food is korean food. 
 
 <!--
 **KdoubleUs/KdoubleUs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
