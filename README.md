@@ -1,4 +1,4 @@
-<h1>Hello Everyone My Name Is Kevin And Welcome To My Github 👋  :eyeglasses: :computer: </h1>
+<h1 align="center">Hello! Nice To meet you 👋  :eyeglasses: :computer: </h1>
 <img src="./readme-image/koen-leung-comp.gif" alt='none' height="400" width="1000" /> 
 
 ## Arsenal of Tools: 
