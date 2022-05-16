@@ -1,7 +1,5 @@
 <h1>Hello Everyone My Name Is Kevin And Welcome To My Github 👋  :eyeglasses: :computer: </h1>
-
-
-<img src="https://thumbs.gfycat.com/ExcellentMadeupChital-size_restricted.gif" alt='none' width="1000" height="400"/>
+<img src="./readme-image/koen-leung-comp.gif" alt='none' height="400" width="1000" /> 
 
 ## Arsenal of Tools: 
 <hr> 
@@ -40,7 +38,7 @@
 <hr> 
 
 - 🔭 I’m currently working on: Developing a mobile application for sports
-- 🌱 I’m currently learning: GoLang, MySql, Java
+- 🌱 I’m currently learning: GoLang, Graphql
 - 💬 Ask me about: What i enjoy?
 - 📫 How to reach me: kevinwuinbox@gmail.com
 - 😄 Pronouns: He/Him
