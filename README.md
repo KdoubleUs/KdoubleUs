@@ -25,12 +25,19 @@
 
 ## STATS:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KdoubleUs&show_icons=true&theme=apprentice)
-<a href="https://github.com/KdoubleUs/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KdoubleUs&layout=compact&theme=apprentice" style="max-width:100%;"/>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api?username=KdoubleUs&show_icons=true&theme=apprentice" alt="stats" style="max-width:100%;"/>
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KdoubleUs&theme=react-dark)](https://github.com/KdoubleUs/github-readme-activity-graph)
+
+<a href="https://github.com/KdoubleUs/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KdoubleUs&layout=compact&theme=apprentice" alt="stats" style="max-width:100%;"/>
+</a>
+
+<a href="https://github.com/KdoubleUs/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=KdoubleUs&theme=react-dark" alt="stats" "/>
+</a>
+
 
 
 ## How To Reach Me: 
