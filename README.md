@@ -26,7 +26,9 @@
 ## STATS:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KdoubleUs&show_icons=true&theme=apprentice)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KdoubleUs&layout=compact&theme=apprentice)](https://github.com/KdoubleUs/github-readme-stats)
+<a href="https://github.com/KdoubleUs/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KdoubleUs&layout=compact&theme=apprentice" style="max-width:100%;"/>
+</a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KdoubleUs&theme=react-dark)](https://github.com/KdoubleUs/github-readme-activity-graph)
 
