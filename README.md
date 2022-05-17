@@ -1,5 +1,5 @@
 <h1 align="center">Hello! Nice To meet you 👋  :eyeglasses: :computer: </h1>
-<img srcset="./readme-image/koen-leung-comp.gif 100w" src="./readme-image/koen-leung-comp.gif" alt='none' height="400" width="1000" /> 
+<img srcset="./readme-image/koen-leung-comp.gif 150w" src="./readme-image/koen-leung-comp.gif" alt='none' height="400" width="1000" /> 
 
 ## Arsenal of Tools: 
 <hr> 
