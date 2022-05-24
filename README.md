@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://github.com/KdoubleUs/github-readme-activity-graph">
-<img src=" https://activityttacker.herokuapp.com/graph?username=KdoubleUs&theme=react-dark" alt="activitytracker" "/>
+<img src="https://activityttacker.herokuapp.com/graph?username=KdoubleUs&theme=react-dark" alt="activitytracker" />
 </a>
 
 
